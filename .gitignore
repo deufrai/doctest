@@ -1,0 +1,7 @@
+*egg*
+/build
+/docs/api
+/dist
+/src/generated/*_ui.py
+/src/generated/*_rc.py
+.coverage
